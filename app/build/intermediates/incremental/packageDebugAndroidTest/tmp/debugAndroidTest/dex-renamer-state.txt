@@ -1,0 +1,7 @@
+#Tue Apr 14 11:25:15 NPT 2026
+base.1=C\:\\Users\\Subigya\\Desktop\\Brg\\SMSBridgePro_v2\\SMSBridgePro\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.1=0/classes.dex
+base.0=C\:\\Users\\Subigya\\Desktop\\Brg\\SMSBridgePro_v2\\SMSBridgePro\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

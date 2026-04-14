@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.smsbridgepro.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.smsbridgepro.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.smsbridgepro.app-mergeDebugResources-32:/layout/item_sms_log.xml",
+        "source": "com.smsbridgepro.app-main-35:/layout/item_sms_log.xml"
+    }
+]

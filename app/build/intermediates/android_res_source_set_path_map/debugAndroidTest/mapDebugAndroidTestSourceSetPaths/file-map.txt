@@ -1,0 +1,5 @@
+com.smsbridgepro.test.app-androidTest-0 C:\Users\Subigya\Desktop\Brg\SMSBridgePro_v2\SMSBridgePro\app\build\generated\res\resValues\androidTest\debug
+com.smsbridgepro.test.app-updated_navigation_xml-1 C:\Users\Subigya\Desktop\Brg\SMSBridgePro_v2\SMSBridgePro\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.smsbridgepro.test.app-mergeDebugAndroidTestResources-2 C:\Users\Subigya\Desktop\Brg\SMSBridgePro_v2\SMSBridgePro\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.smsbridgepro.test.app-mergeDebugAndroidTestResources-3 C:\Users\Subigya\Desktop\Brg\SMSBridgePro_v2\SMSBridgePro\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.smsbridgepro.test.app-debugAndroidTest-4 C:\Users\Subigya\Desktop\Brg\SMSBridgePro_v2\SMSBridgePro\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

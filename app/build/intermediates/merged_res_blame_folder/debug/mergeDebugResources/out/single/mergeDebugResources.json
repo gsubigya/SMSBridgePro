@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\color_selector_tab_text.xml.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\color\\selector_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\drawable_bg_mode_tabs.xml.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\drawable\\bg_mode_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\color_selector_track.xml.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\color\\selector_track.xml"
+    },
+    {
+        "merged": "com.smsbridgepro.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.smsbridgepro.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\drawable_selector_tab.xml.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\drawable\\selector_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\color_selector_thumb.xml.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\color\\selector_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smsbridgepro.app-debug-33:/layout_item_sms_log.xml.flat",
+        "source": "com.smsbridgepro.app-main-35:/layout/item_sms_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\drawable_bg_tab_unselected.xml.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\drawable\\bg_tab_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-debug-33:\\drawable_bg_tab_selected.xml.flat",
+        "source": "C:\\Users\\Subigya\\.gradle\\daemon\\9.3.1\\com.smsbridgepro.app-main-35:\\drawable\\bg_tab_selected.xml"
+    }
+]
