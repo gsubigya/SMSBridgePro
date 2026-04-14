@@ -1,11 +1,10 @@
 # SMS Bridge Pro 📡
 
-> Turn your Android phone into a programmable SMS gateway — send messages via a secure REST API from anywhere in the world.
-'''
+> Turn your Android phone into a programmable SMS gateway send messages via a secure REST API from anywhere in the world.
 ---
 ## What is this?
 
-SMS Bridge Pro runs an embedded **Ktor/Netty HTTP server directly on your Android device**. Any tool that can make an HTTP request — Postman, cURL, Python, Node.js, your backend — can send SMS messages through your phone's SIM card by hitting a single authenticated endpoint.
+SMS Bridge Pro runs an embedded **Ktor/Netty HTTP server directly on your Android device**. Any tool that can make an HTTP request: Postman, cURL, Python, Node.js, your backend can send SMS messages through your phone's SIM card by hitting a single authenticated endpoint.
 
 No third-party SMS APIs. No per-message fees. No SIM registration. Just your phone.
 
@@ -26,15 +25,15 @@ SMS Bridge Pro (running on Android)
 
 ## Features
 
-- 🔒 **3-Point Security Interlock** — every request validated against a session token, username, and password
-- 🔑 **Auto-rotating credentials** — new cryptographically secure credentials generated on every server start
-- 🌐 **Two gateway modes** — LOCAL (LAN) and GLOBAL (Ngrok tunnel)
-- 📋 **Tap-to-copy credential cards** — credentials revealed and copied on tap
-- 📊 **SMS Log tab** — live log of every sent message with status
-- 📦 **Multipart SMS** — long messages auto-split and reassembled on recipient device
-- 🔔 **Foreground service** — server stays alive even when app is backgrounded
-- ✅ **E.164 validation** — phone numbers validated before dispatch
-- 🎯 **Bulk sending** — comma-separated numbers in a single request
+- **3-Point Security Interlock** — every request validated against a session token, username, and password
+- **Auto-rotating credentials** — new cryptographically secure credentials generated on every server start
+- **Two gateway modes** — LOCAL (LAN) and GLOBAL (Ngrok tunnel)
+- **Tap-to-copy credential cards** — credentials revealed and copied on tap
+- **SMS Log tab** — live log of every sent message with status
+- **Multipart SMS** — long messages auto-split and reassembled on recipient device
+- **Foreground service** — server stays alive even when app is backgrounded
+- **E.164 validation** — phone numbers validated before dispatch
+- **Bulk sending** — comma-separated numbers in a single request
 
 ---
 
@@ -90,7 +89,7 @@ git clone https://github.com/gsubigya/SMSBridgePro.git
 
 1. Open the app → toggle the **switch ON**
 2. Grant the **Send SMS** permission when prompted
-3. The server starts on port `8080` — status changes to **ACTIVE**
+3. The server starts on port `8080` status changes to **ACTIVE**
 4. Tap each credential card to reveal and copy it
 
 ---
@@ -171,7 +170,7 @@ Content-Type   : application/json
 }
 ```
 
-**Response `207 Multi-Status` — partial failure**
+**Response `207 Multi-Status` partial failure**
 ```json
 {
   "success": false,
@@ -274,9 +273,9 @@ SMSBridgePro/
 
 - Credentials are generated using `java.security.SecureRandom` (backed by `/dev/urandom`)
 - The 32-char hex token provides ~128 bits of entropy
-- Credentials rotate every time the server is restarted — never reused across sessions
-- For production use, run behind Ngrok with HTTPS — never expose port 8080 directly to the internet
-- The server only accepts requests that pass all 3 authentication checks — partial credential matches are rejected
+- Credentials rotate every time the server is restarted never reused across sessions
+- For production use, run behind Ngrok with HTTPS never expose port 8080 directly to the internet
+- The server only accepts requests that pass all 3 authentication checks partial credential matches are rejected
 
 ---
 
