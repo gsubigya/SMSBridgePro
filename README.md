@@ -18,7 +18,7 @@ SMS Bridge Pro (running on Android)
       │
       │  SmsManager.sendTextMessage()
       ▼
- 📱 Your SIM Card → Recipient's Phone
+ Your SIM Card → Recipient's Phone
 ```
 
 ---
