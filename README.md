@@ -25,19 +25,17 @@ SMS Bridge Pro (running on Android)
 
 ## Features
 
-- **3-Point Security Interlock** — every request validated against a session token, username, and password
-- **Auto-rotating credentials** — new cryptographically secure credentials generated on every server start
-- **Two gateway modes** — LOCAL (LAN) and GLOBAL (Ngrok tunnel)
-- **Tap-to-copy credential cards** — credentials revealed and copied on tap
-- **SMS Log tab** — live log of every sent message with status
-- **Multipart SMS** — long messages auto-split and reassembled on recipient device
-- **Foreground service** — server stays alive even when app is backgrounded
-- **E.164 validation** — phone numbers validated before dispatch
-- **Bulk sending** — comma-separated numbers in a single request
+- **3-Point Security Interlock** : every request validated against a session token, username, and password
+- **Auto-rotating credentials** : new cryptographically secure credentials generated on every server start
+- **Two gateway modes** : LOCAL (LAN) and GLOBAL (Ngrok tunnel)
+- **Tap-to-copy credential cards** : credentials revealed and copied on tap
+- **SMS Log tab** : live log of every sent message with status
+- **Multipart SMS** : long messages auto-split and reassembled on recipient device
+- **Foreground service** : server stays alive even when app is backgrounded
+- **E.164 validation** : phone numbers validated before dispatch
+- **Bulk sending** : comma-separated numbers in a single request
 
 ---
-
-## Screenshots
 
 > _Toggle the server on, copy your credentials, and start dispatching SMS from anywhere._
 
