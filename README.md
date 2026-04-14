@@ -73,7 +73,7 @@ SMS Bridge Pro (running on Android)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/SMSBridgePro.git
+git clone https://github.com/gsubigya/SMSBridgePro.git
 
 # 2. Open in Android Studio
 #    File → Open → select the SMSBridgePro folder
